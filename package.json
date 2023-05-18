@@ -1,0 +1,16 @@
+{
+    "name": "discord-tickets",
+    "main": "main.js",
+    "author": "Beesc9it",
+    "version": "1.0.0",
+    "repository": "https://github.com/Beesc9it/Discord-ticket-bot.git",
+    "description": "A cool Discord bot to manage tickets on your server",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord.js": "^13.15.1",
+        "docker": "^1.0.0",
+        "docker.js": "^2.0.0"
+    }
+}
